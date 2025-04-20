@@ -59,8 +59,8 @@ Currently pursuing a **Diploma in Computer Science and Engineering (2022–2025)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   cd portfolio-website
+   git clone (https://github.com/Pritamnirala12/portfolio-main)
+   cd portfolio-main
    ```
 
 2. Open `index.html` in your browser to view locally.
@@ -84,6 +84,7 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 
 ---
 
+
 ## 🙏 Acknowledgements
 
 Thanks to:
@@ -91,17 +92,15 @@ Thanks to:
 - Netlify for free hosting
 - GitHub for version control
 
+
+## 👨‍🏫 Guided By
+**Mr. Harendra Kumar**  
+Department of Computer Science Engineering  
+Centurion University of Technology and Management
+
 ---
 👨‍💻 Submitted By                  
-├────────────────────────────┬─────────────────┤
-│ Name                       │ Roll Number      │
-├────────────────────────────┼─────────────────┤
-│ Pritam Kumar               │ 221107140036     │
-│ Hasan Iqbal                │ 221107140037     │
-│ Wasif Ansari               │ 221107140035     │
-│ Sakir Ansari               │ 221107140033     │
-│ Raushan Kumar              │ 221107140044     │
-└────────────────────────────┴─────────────────┘
+ Pritam Kumar (221107140036), Hasan Iqbal (221107140037), Wasif Ansari (221107140035), Sakir Ansari (221107140033), Raushan Kumar (221107140044) 
 
 ### ⭐ If you like this project, give it a star on GitHub!
 
