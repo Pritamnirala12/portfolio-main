@@ -133,3 +133,16 @@ document.addEventListener('DOMContentLoaded', function () {
       });
   });
 });
+
+//Ripple Effect
+ document.querySelectorAll(".ripple-btn").forEach(button => {
+        button.addEventListener("click", function (e) {
+            const ripple = this.querySelector(".ripple");
+            ripple.style.left = `${e.offsetX}px`;
+            ripple.style.top = `${e.offsetY}px`;
+            ripple.classList.remove("show");
+            void ripple.offsetWidth; // Trigger reflow
+            ripple.classList.add("show");
+        });
+    });
+
